@@ -32,7 +32,7 @@ Um site inspirado no universo de **One Piece**, criado com **HTML5**, **CSS3** e
 
 ## 💻 Como rodar localmente
 
-`bash
+`
 git clone https://github.com/erickao-120hzz/one-piece-site.git
 cd one-piece-site
 abra o arquivo index.html no navegador`
