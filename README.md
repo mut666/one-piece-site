@@ -32,10 +32,30 @@ Um site inspirado no universo de **One Piece**, criado com **HTML5**, **CSS3** e
 
 ## 💻 Como rodar localmente
 
-```bash
+`bash
 git clone https://github.com/erickao-120hzz/one-piece-site.git
 cd one-piece-site
-abra o arquivo index.html no navegador
+abra o arquivo index.html no navegador`
+
+🧠 Aprendizados
+Esse projeto foi um desafio de front-end pessoal para praticar:
+Criação de páginas responsivas
+Manipulação de classes no JS
+Organização de código HTML/CSS
+Uso de reset.css para manter consistência visual entre navegadores
+
+---
+
+## 🤝 Fala comigo!
+
+Curtiu o projeto ou tem alguma ideia de melhoria? Me manda um e-mail, vou gostar de ouvir!
+
+📬 **erickcarvalho661@hotmail.com**
+
+🏴‍☠️ Créditos
+Feito com carinho por Erick (@erickao-120hzz)
+Inspirado no mundo de One Piece, criado por Eiichiro Oda.
+
 
 
 
