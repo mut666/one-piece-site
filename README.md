@@ -52,7 +52,7 @@ Curtiu o projeto ou tem alguma ideia de melhoria? Me manda um e-mail, vou gostar
 
 📬 **erickcarvalho661@hotmail.com**
 
-🏴‍☠️ Créditos
+## 🏴‍☠️ Créditos
 Feito com carinho por Erick (@erickao-120hzz)
 Inspirado no mundo de One Piece, criado por Eiichiro Oda.
 
